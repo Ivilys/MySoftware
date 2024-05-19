@@ -1,0 +1,3 @@
+def clik():
+  print("Clik")
+  
